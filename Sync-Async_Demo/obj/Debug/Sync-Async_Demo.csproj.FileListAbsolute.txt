@@ -1,0 +1,15 @@
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\bin\Debug\Sync-Async_Demo.exe.config
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\bin\Debug\Sync-Async_Demo.exe
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\bin\Debug\Sync-Async_Demo.pdb
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo.csprojAssemblyReference.cache
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\MainWindow.g.cs
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\App.g.cs
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo_MarkupCompile.cache
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo_MarkupCompile.lref
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\MainWindow.baml
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo.g.resources
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync_Async_Demo.Properties.Resources.resources
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo.csproj.GenerateResource.cache
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo.csproj.CoreCompileInputs.cache
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo.exe
+C:\Users\David Caraballo\source\repos\Sync-Async_Demo\Sync-Async_Demo\obj\Debug\Sync-Async_Demo.pdb
